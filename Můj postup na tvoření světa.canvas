@@ -1,0 +1,117 @@
+{
+  "edges": [
+    {
+      "fromNode": "24687b1e021ecbee",
+      "fromSide": "bottom",
+      "id": "aab3170d5e29f590",
+      "toNode": "c43eb3e1cd104b7f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c43eb3e1cd104b7f",
+      "fromSide": "bottom",
+      "id": "796d1b59aed70c5e",
+      "styleAttributes": {
+      },
+      "toNode": "5f85d7cdc53d8c63",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c43eb3e1cd104b7f",
+      "fromSide": "right",
+      "id": "7680419ea58a9fbe",
+      "styleAttributes": {
+      },
+      "toNode": "e4f40299d71f75be",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "24687b1e021ecbee",
+      "styleAttributes": {
+      },
+      "text": "START",
+      "type": "text",
+      "width": 250,
+      "x": 120,
+      "y": -760
+    },
+    {
+      "height": 320,
+      "id": "98fd39f9aa998fee",
+      "styleAttributes": {
+      },
+      "text": "# Účel\n\nTenhle canvas má sloužit pro vizuální zobrazení mého postupu při tvoření světa.\nFinálním produktem by měl být diagram postupu.\n\nNeboj se diagram upravovat za pomocí nových poznatků. Věř že nikdy nebude úplně perfektní ale aspoň pak budeš mít postup co fungoval pro tebe.",
+      "type": "text",
+      "width": 441,
+      "x": -740,
+      "y": -1020
+    },
+    {
+      "height": 60,
+      "id": "c43eb3e1cd104b7f",
+      "styleAttributes": {
+        "border": null,
+        "shape": null,
+        "textAlign": null
+      },
+      "text": "Máš nápady?",
+      "type": "text",
+      "width": 250,
+      "x": 120,
+      "y": -620
+    },
+    {
+      "height": 60,
+      "id": "46cc7fcddd3febe3",
+      "styleAttributes": {
+        "border": "invisible",
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "Ano",
+      "type": "text",
+      "width": 100,
+      "x": 120,
+      "y": -560
+    },
+    {
+      "height": 60,
+      "id": "5f85d7cdc53d8c63",
+      "styleAttributes": {
+      },
+      "text": "Sepiš si je",
+      "type": "text",
+      "width": 260,
+      "x": 115,
+      "y": -460
+    },
+    {
+      "height": 60,
+      "id": "e4f40299d71f75be",
+      "styleAttributes": {
+      },
+      "text": "Koukni se na [[G.R.A.P.E.S.]] nebo [[H.E.R.M.E.T.I.C.S.]]",
+      "type": "text",
+      "width": 260,
+      "x": 500,
+      "y": -620
+    },
+    {
+      "height": 60,
+      "id": "aefdb64707215ae2",
+      "styleAttributes": {
+        "border": "invisible",
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "Ne",
+      "type": "text",
+      "width": 100,
+      "x": 380,
+      "y": -660
+    }
+  ]
+}

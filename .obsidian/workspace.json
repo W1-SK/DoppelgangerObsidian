@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4aa3e64f9a4053d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d8012899d7a5604",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5560ed0de0fd8a9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "98cac8486d30dc14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Psychology",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4cd27ad29d0c920d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0351ba09b99c2bf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "36d7b4896b2466d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebcc8f2ebb72e164",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Home"
+            }
+          },
+          {
+            "id": "a5f73b273ee700d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Home"
+            }
+          },
+          {
+            "id": "0c174b419762d79b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9d5bb12016910595",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Home.md",
+    "Zápisky z videa - D&D.md",
+    "Fomos - H.E.R.M.E.T.I.C.S..md",
+    "H.E.R.M.E.T.I.C.S..md",
+    "Fomos - Shitstorm.md",
+    "Figma notes.md",
+    "Dron MO.md",
+    "How to DM.md",
+    "D&D MO.md",
+    "Zájmy MO.md",
+    "Untitled 2.md",
+    "Website Project Brief.md",
+    "Why should you work with me - present.md",
+    "temp.md",
+    "Untitled 1.md",
+    "Web strategy.md",
+    "Untitled.md",
+    "Psychologický profil spolužáka.md",
+    "Studentský projekt - D&D Toolbox.md",
+    "Possible expansions - D&D Toolbox.md",
+    "Worldbuilding project/Napady/Nápady seznam - Mythoria.md",
+    "Fomos - To Do.md",
+    "Learning figma.md",
+    "Figma.md",
+    "Co bych se chtěl naučit.md",
+    "What is GitHub.md",
+    "Assets/mili.png",
+    "Worldbuilding project/Rozplánování.canvas",
+    "Můj postup na tvoření světa.canvas",
+    "export/Proč tenhle studentský projekt - present/plugin/chalkboard/img/whiteboard.png",
+    "export/Proč tenhle studentský projekt - present/plugin/chalkboard/img/sponge.png",
+    "export/Proč tenhle studentský projekt - present/plugin/chalkboard/img/chalk-yellow.png",
+    "export/Proč tenhle studentský projekt - present/plugin/chalkboard/img/chalk-white.png",
+    "export/Proč tenhle studentský projekt - present/plugin/chalkboard/img/chalk-red.png",
+    "export/Proč tenhle studentský projekt - present/plugin/chalkboard/img/chalk-purple.png",
+    "export/Proč tenhle studentský projekt - present/plugin/chalkboard/img/chalk-orange.png",
+    "export/Proč tenhle studentský projekt - present/plugin/chalkboard/img/chalk-green.png",
+    "export/Proč tenhle studentský projekt - present/plugin/chalkboard/img/chalk-blue.png",
+    "export/Proč tenhle studentský projekt - present/plugin/chalkboard/_style.css",
+    "export/Proč tenhle studentský projekt - present/plugin/chalkboard/style.css",
+    "export/Proč tenhle studentský projekt - present/plugin/chalkboard/plugin.js",
+    "export/Proč tenhle studentský projekt - present/plugin/chalkboard/plugin (copy).js",
+    "export/Proč tenhle studentský projekt - present/plugin/chalkboard/img",
+    "export/Proč tenhle studentský projekt - present/plugin/chalkboard",
+    "export/Proč tenhle studentský projekt - present/plugin/chart/plugin.js",
+    "export/Proč tenhle studentský projekt - present/plugin/chart/chart.min.js",
+    "export/Proč tenhle studentský projekt - present/plugin/chart",
+    "export/Proč tenhle studentský projekt - present/plugin/customcontrols/style.css",
+    "Worldbuilding project/Rozplanovani 1.canvas"
+  ]
+}

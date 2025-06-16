@@ -1,0 +1,1 @@
+#Trenink #Popis #DnD #Psani

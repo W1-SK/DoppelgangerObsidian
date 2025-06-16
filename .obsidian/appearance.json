@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Primary",
+  "baseFontSize": 16,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "stats"
+  ]
+}
