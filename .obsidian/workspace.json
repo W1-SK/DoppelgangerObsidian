@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "README"
             }
           }
         ]
@@ -176,6 +176,9 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Home.md",
+    "README.md",
+    "Guide to be a better player.md",
+    "GitHub Education.md",
     "Zápisky z videa - D&D.md",
     "Fomos - H.E.R.M.E.T.I.C.S..md",
     "H.E.R.M.E.T.I.C.S..md",
@@ -198,9 +201,6 @@
     "Worldbuilding project/Napady/Nápady seznam - Mythoria.md",
     "Fomos - To Do.md",
     "Learning figma.md",
-    "Figma.md",
-    "Co bych se chtěl naučit.md",
-    "What is GitHub.md",
     "Assets/mili.png",
     "Worldbuilding project/Rozplánování.canvas",
     "Můj postup na tvoření světa.canvas",
