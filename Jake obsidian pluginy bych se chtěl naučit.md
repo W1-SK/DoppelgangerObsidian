@@ -3,7 +3,7 @@
 Vítej na místě kam si budu zapisovat jaké obsidian pluigny bych se chtěl naučit, nebo začít pořádně využívat.
 
 
-- Tamplater
+- [[Tamplater]]
 - Advanced slides
 - Advanced canvas
 - Dataview
