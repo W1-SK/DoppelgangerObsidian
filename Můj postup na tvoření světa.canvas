@@ -26,6 +26,11 @@
       "toSide": "left"
     }
   ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
   "nodes": [
     {
       "height": 60,
