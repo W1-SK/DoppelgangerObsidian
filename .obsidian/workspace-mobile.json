@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "6c1877349475d091",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "f6ecea5068266393",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "0b90424d6b46b5e0",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,6 +154,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b90424d6b46b5e0",
-  "lastOpenFiles": []
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Home.md"
+  ]
 }
