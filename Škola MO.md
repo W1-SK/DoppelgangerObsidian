@@ -9,3 +9,4 @@ Obsah:
 - [[Proč tenhle studentský projekt - present]]
 - [[Prezentace - Hardware]]
 - [[TTRPG STUL]]
+- [[Ekonomika]]
