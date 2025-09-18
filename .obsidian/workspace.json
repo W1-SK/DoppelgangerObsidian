@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
@@ -175,6 +176,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home.md",
     "Character Outline 1.md",
     "Projekt s krycím jménem Dej groš zaklínači/Mapa Obsahu.md",
     "Zápisky z videa - D&D.md",
@@ -201,7 +203,6 @@
     "D&D MO.md",
     "H.E.R.M.E.T.I.C.S..md",
     "G.R.A.P.E.S..md",
-    "Home.md",
     "Projekt s krycím jménem Dej groš zaklínači",
     "Assets/mili.png",
     "Worldbuilding project/Rozplánování.canvas",
