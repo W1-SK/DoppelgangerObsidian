@@ -7,7 +7,7 @@ Mapy obsahu
 
 V případě, že se nudíš nebo nevíš o čem teď chceš psát doporučuju navštívit [[Nedodělané]] a vybrat si jeden na dodělání.
 
-Tak tohle je ale crazy ne
+Tak tohle je ale crazy ne.
 ```contributionGraph
 title: Aktivita
 graphType: default
