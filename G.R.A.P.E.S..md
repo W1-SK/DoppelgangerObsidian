@@ -1,4 +1,9 @@
-#Worldbuilding #DnD #Advice
+---
+tags:
+  - Worldbuilding
+  - DnD
+  - Advice
+---
 
 ## Co je to G.R.A.P.E.S. ?
 G.R.A.P.E.S. je acronym pro 6 aspektů, na které by se nemělo zapomenout při tvoření světa a to pro *Geography*([[#Zeměpis]]), *Religion*([[#Náboženství]]), *Achievements*([[#Úspěchy]]), *Politics*([[#Politika]]), *Economics*([[#Ekonomie]]) a *Social structure*([[#Hierarchie společnosti]]).

@@ -1,3 +1,8 @@
+---
+tags:
+  - Note
+---
+
 ## O co jde?
 Tak nejdřív by jsme se mohli kouknout co je to vůbec slovo afektivita, slovo odvozené ze slova afekt. Právě toto slovo afekt, z latinského slova *affectus*, znamená krátkodobou, silnou a prudkou emoční reakci na významný podnět při sníženém sebeovládání. Takže afektivní by se dalo přeložit na citový, či týkající se citů člověka.
 Zato porucha, složená ze slov rušit a po, vyjadřuje narušení normálního stavu.

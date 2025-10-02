@@ -1,3 +1,8 @@
+---
+tags:
+  - Note
+---
+
 ## O co jde?
 Slovo deprese pochází z latinského *depressio*, znamenající stlačení či potlačení.
 Je to dlouhotrvající porucha psychiky projevující se snížením až vymizením schopnosti cítit potěšení, pokleslou náladou jedince a patologickým smutkem.

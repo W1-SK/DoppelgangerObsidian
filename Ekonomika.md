@@ -1,3 +1,9 @@
+---
+tags:
+  - School
+  - Note
+---
+
 # Úvodní hodina 11.9.
 - Ekonomie x Ekonomika
 	- Ekonomie - věda o hospodářské činnosti člověka (vědní obor)

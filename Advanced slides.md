@@ -1,2 +1,6 @@
-#Obsidian #Plugin 
+---
+tags:
+  - Obsidian
+  - Plugin
+---
 

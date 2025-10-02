@@ -1,0 +1,672 @@
+{
+  "edges": [
+    {
+      "fromNode": "3d37e63e500cfb1d",
+      "fromSide": "right",
+      "id": "726f799fb41c5d5b",
+      "toNode": "5b755da33352f831",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3d37e63e500cfb1d",
+      "fromSide": "right",
+      "id": "8605192858b060b6",
+      "toNode": "2f798b7cf6b17c25",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2f798b7cf6b17c25",
+      "fromSide": "right",
+      "id": "197a2a4afb1ea38d",
+      "toNode": "aa276abf8e8a34aa",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "5b755da33352f831",
+      "fromSide": "right",
+      "id": "67443c8bb9216d1f",
+      "toNode": "fb62524d655ab499",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2f798b7cf6b17c25",
+      "fromSide": "right",
+      "id": "8838f82c4f97f1b5",
+      "toNode": "132fc7aba54a7a58",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "132fc7aba54a7a58",
+      "fromSide": "right",
+      "id": "be1314484da3a3ff",
+      "toNode": "6ee37e929eac7a79",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "132fc7aba54a7a58",
+      "fromSide": "right",
+      "id": "741b556f5bc321ed",
+      "toNode": "19c76d6d4158300e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3d37e63e500cfb1d",
+      "fromSide": "right",
+      "id": "100dc3b99c84abfc",
+      "toNode": "a099430b68a2216e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "62194f5252ef37e5",
+      "fromSide": "right",
+      "id": "0875fac2b004fcac",
+      "toNode": "bcd55b64560c9128",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "61308ff43a0c5692",
+      "fromSide": "right",
+      "id": "d1bcca953350c806",
+      "toNode": "79e283f41f6200a0",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "61308ff43a0c5692",
+      "fromSide": "right",
+      "id": "40bdeb25a7127922",
+      "toNode": "61f6ce9798d3d0b4",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "61308ff43a0c5692",
+      "fromSide": "right",
+      "id": "df96b13b9abf6219",
+      "toNode": "0968e23f7e3fab3d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "61308ff43a0c5692",
+      "fromSide": "right",
+      "id": "9094417968539a72",
+      "toNode": "032a95702e0086d1",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "61f6ce9798d3d0b4",
+      "fromSide": "right",
+      "id": "c73b62802c211d99",
+      "toNode": "70664c9fef307461",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "61f6ce9798d3d0b4",
+      "fromSide": "right",
+      "id": "5c1ed01f464bfdfd",
+      "toNode": "91c83a43e4b684ac",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "61f6ce9798d3d0b4",
+      "fromSide": "right",
+      "id": "4ec4aa0bd03c9fed",
+      "toNode": "ab6083f5429643b5",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0968e23f7e3fab3d",
+      "fromSide": "right",
+      "id": "03b53d828fc7e832",
+      "toNode": "a7939a8c02202ec5",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0968e23f7e3fab3d",
+      "fromSide": "right",
+      "id": "a016c74dfd3a3c63",
+      "toNode": "b53ca807753ef6ab",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "dbc970d75670a85e",
+      "fromSide": "right",
+      "id": "25b30fc7e3a9ddfc",
+      "toNode": "0b4dd52311f903e3",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "dbc970d75670a85e",
+      "fromSide": "left",
+      "id": "01d552e26c06866d",
+      "toNode": "61308ff43a0c5692",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "a7939a8c02202ec5",
+      "fromSide": "right",
+      "id": "5220c71ffc3b6450",
+      "toNode": "b7c6f6153a00fe62",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a7939a8c02202ec5",
+      "fromSide": "right",
+      "id": "d65b29aade5546fc",
+      "toNode": "6af141fec43b0519",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "dbc970d75670a85e",
+      "fromSide": "right",
+      "id": "0f49377e038d9e9b",
+      "toNode": "cb74035255c3f9a4",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "79e283f41f6200a0",
+      "fromSide": "right",
+      "id": "f70bb80785c09377",
+      "toNode": "8ecb9f98eb365db5",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "79e283f41f6200a0",
+      "fromSide": "right",
+      "id": "400c5cbeaf382642",
+      "toNode": "56dc80e21bdb4ad1",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "79e283f41f6200a0",
+      "fromSide": "right",
+      "id": "c9d1330bc0fef4f5",
+      "toNode": "dfa95d3e8f911293",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "79e283f41f6200a0",
+      "fromSide": "right",
+      "id": "981faf68212cf859",
+      "toNode": "9b321f3abb6d1274",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "79e283f41f6200a0",
+      "fromSide": "right",
+      "id": "10eff8b5a885474b",
+      "toNode": "5ed706830063f3dd",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "79e283f41f6200a0",
+      "fromSide": "right",
+      "id": "009feb007cb1c713",
+      "toNode": "c41da78f06cd0ddd",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "62194f5252ef37e5",
+      "fromSide": "right",
+      "id": "f335b2cc1f08f7e3",
+      "toNode": "c248358304cfd2e6",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "height": 1820,
+      "id": "2c193be0c6dd5dda",
+      "label": "Svět",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1250,
+      "x": -760,
+      "y": 1260
+    },
+    {
+      "height": 900,
+      "id": "f244c57ab212bc4b",
+      "label": "Assets",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1250,
+      "x": -760,
+      "y": -320
+    },
+    {
+      "height": 240,
+      "id": "12f7a5599f207693",
+      "label": "Nápady",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1080,
+      "x": -760,
+      "y": 680
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "5b755da33352f831",
+      "styleAttributes": {
+      },
+      "text": "Zapisky rukou",
+      "type": "text",
+      "width": 250,
+      "x": -420,
+      "y": -40
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "2f798b7cf6b17c25",
+      "styleAttributes": {
+      },
+      "text": "Map",
+      "type": "text",
+      "width": 250,
+      "x": -420,
+      "y": 220
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "aa276abf8e8a34aa",
+      "styleAttributes": {
+      },
+      "text": "Inspirace",
+      "type": "text",
+      "width": 250,
+      "x": -100,
+      "y": 220
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "fb62524d655ab499",
+      "styleAttributes": {
+      },
+      "text": "Nazev_number",
+      "type": "text",
+      "width": 250,
+      "x": -100,
+      "y": -40
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "a099430b68a2216e",
+      "styleAttributes": {
+      },
+      "text": "Obrazky",
+      "type": "text",
+      "width": 250,
+      "x": -420,
+      "y": -300
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "3d37e63e500cfb1d",
+      "styleAttributes": {
+      },
+      "text": "Assets",
+      "type": "text",
+      "width": 250,
+      "x": -740,
+      "y": -40
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "19c76d6d4158300e",
+      "styleAttributes": {
+      },
+      "text": "Verze_number",
+      "type": "text",
+      "width": 250,
+      "x": 220,
+      "y": 500
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "c248358304cfd2e6",
+      "styleAttributes": {
+      },
+      "text": "[[Nápady seznam - Mythoria|Napady Seznam]]",
+      "type": "text",
+      "width": 250,
+      "x": -420,
+      "y": 700
+    },
+    {
+      "height": 861,
+      "id": "da2f30448eb430eb",
+      "styleAttributes": {
+      },
+      "text": "# Pravidla pro zápisky\n- Nezapomenout přidávat tagy k soborům",
+      "type": "text",
+      "width": 562,
+      "x": -1722,
+      "y": 419
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "62194f5252ef37e5",
+      "styleAttributes": {
+      },
+      "text": "Napady",
+      "type": "text",
+      "width": 250,
+      "x": -740,
+      "y": 760
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "032a95702e0086d1",
+      "styleAttributes": {
+      },
+      "text": "Magic system",
+      "type": "text",
+      "width": 250,
+      "x": -420,
+      "y": 1280
+    },
+    {
+      "height": 780,
+      "id": "bb34f0675a379cf2",
+      "styleAttributes": {
+      },
+      "text": "# Tags\n- Hracska postava\n- Artefakt\n- Napad\n- Map\n- Monstrum\n- Buh\n- Lokace\n- Les\n- Mesto\n- Vesnice\n- Hory\n- Ruiny\n- Kniha\n- Predmet",
+      "type": "text",
+      "width": 562,
+      "x": -1722,
+      "y": 1460
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "79e283f41f6200a0",
+      "styleAttributes": {
+      },
+      "text": "Lokace",
+      "type": "text",
+      "width": 250,
+      "x": -420,
+      "y": 1640
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "dfa95d3e8f911293",
+      "styleAttributes": {
+      },
+      "text": "Stredni ostrov",
+      "type": "text",
+      "width": 250,
+      "x": -100,
+      "y": 1420
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "8ecb9f98eb365db5",
+      "styleAttributes": {
+      },
+      "text": "Cast 5",
+      "type": "text",
+      "width": 250,
+      "x": -100,
+      "y": 1582
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "61308ff43a0c5692",
+      "styleAttributes": {
+      },
+      "text": "NameOfWorld",
+      "type": "text",
+      "width": 250,
+      "x": -740,
+      "y": 1880
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "56dc80e21bdb4ad1",
+      "styleAttributes": {
+      },
+      "text": "Cast 3",
+      "type": "text",
+      "width": 250,
+      "x": -100,
+      "y": 1501
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "6ee37e929eac7a79",
+      "styleAttributes": {
+      },
+      "text": "Final",
+      "type": "text",
+      "width": 250,
+      "x": 220,
+      "y": 360
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "132fc7aba54a7a58",
+      "styleAttributes": {
+      },
+      "text": "Obrazek mapy",
+      "type": "text",
+      "width": 250,
+      "x": -100,
+      "y": 360
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "bcd55b64560c9128",
+      "styleAttributes": {
+      },
+      "text": "OriginalniNazev",
+      "type": "text",
+      "width": 250,
+      "x": -420,
+      "y": 840
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "9b321f3abb6d1274",
+      "styleAttributes": {
+      },
+      "text": "Cast 1",
+      "type": "text",
+      "width": 250,
+      "x": -100,
+      "y": 1700
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "91c83a43e4b684ac",
+      "styleAttributes": {
+      },
+      "text": "Monstra",
+      "type": "text",
+      "width": 250,
+      "x": -100,
+      "y": 1960
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "5ed706830063f3dd",
+      "styleAttributes": {
+      },
+      "text": "Cast 2",
+      "type": "text",
+      "width": 250,
+      "x": -100,
+      "y": 1781
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "c41da78f06cd0ddd",
+      "styleAttributes": {
+      },
+      "text": "Cast 4",
+      "type": "text",
+      "width": 250,
+      "x": -100,
+      "y": 1860
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "61f6ce9798d3d0b4",
+      "styleAttributes": {
+      },
+      "text": "NPC",
+      "type": "text",
+      "width": 250,
+      "x": -420,
+      "y": 2100
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "0968e23f7e3fab3d",
+      "styleAttributes": {
+      },
+      "text": "Lore",
+      "type": "text",
+      "width": 250,
+      "x": -420,
+      "y": 2480
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "dbc970d75670a85e",
+      "styleAttributes": {
+      },
+      "text": "Predmety",
+      "type": "text",
+      "width": 250,
+      "x": -420,
+      "y": 2860
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "ab6083f5429643b5",
+      "styleAttributes": {
+      },
+      "text": "Osoby",
+      "type": "text",
+      "width": 250,
+      "x": -100,
+      "y": 2240
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "6af141fec43b0519",
+      "styleAttributes": {
+      },
+      "text": "Politika",
+      "type": "text",
+      "width": 250,
+      "x": 220,
+      "y": 2480
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "cb74035255c3f9a4",
+      "styleAttributes": {
+      },
+      "text": "NovePredmety",
+      "type": "text",
+      "width": 250,
+      "x": -100,
+      "y": 3000
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "0b4dd52311f903e3",
+      "styleAttributes": {
+      },
+      "text": "Artefakty",
+      "type": "text",
+      "width": 250,
+      "x": -100,
+      "y": 2860
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "b7c6f6153a00fe62",
+      "styleAttributes": {
+      },
+      "text": "Bitvy",
+      "type": "text",
+      "width": 250,
+      "x": 220,
+      "y": 2340
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "a7939a8c02202ec5",
+      "styleAttributes": {
+      },
+      "text": "Historie",
+      "type": "text",
+      "width": 250,
+      "x": -100,
+      "y": 2480
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "b53ca807753ef6ab",
+      "styleAttributes": {
+      },
+      "text": "Bohove",
+      "type": "text",
+      "width": 250,
+      "x": -100,
+      "y": 2640
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "70664c9fef307461",
+      "styleAttributes": {
+      },
+      "text": "Hracske postavy",
+      "type": "text",
+      "width": 250,
+      "x": -100,
+      "y": 2100
+    }
+  ]
+}

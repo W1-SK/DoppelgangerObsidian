@@ -1,5 +1,9 @@
- #Worldbuilding #DnD #Advice
-
+---
+tags:
+  - Worldbuilding
+  - DnD
+  - Advice
+---
 ## Co je to H.E.R.M.E.T.I.C.S. ?
 H.E.R.M.E.T.I.C.S. je nástroj založený na podobným nástroji jménem [[G.R.A.P.E.S.]]. Je ale rozšířen o několik dalších oblastí tak si znovu projedeme pro co je to acronym. *History*([[#Historie]]), *Economy*([[#Ekonomie]]), *Religion*([[#Náboženství]]), *Magic system*([[#Systém kouzlení]]), *Executive*([[#Vedení]]), *Topography*([[#Topografie]]), *Inhabitants*([[#Obyvatelé]]), *Culture*([[#Kultura]]), *Society*([[#Společnost]]).
 ## Proč používat H.E.R.M.E.T.I.C.S. ?

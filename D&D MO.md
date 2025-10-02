@@ -1,4 +1,8 @@
-#MO #DnD
+---
+tags:
+  - MO
+  - DnD
+---
 
 Mapy obsahu
 - [[Worldbuilding MO]]

@@ -1,4 +1,10 @@
-#Fomos #Worldbuilding #Project #DnD
+---
+tags:
+  - Fomos
+  - Worldbuilding
+  - Project
+  - DnD
+---
 
 Vítej v hlavním note ohledně mého worldbuilding projektu pro svět jménem **Fomos**.
 
