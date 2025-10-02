@@ -20,3 +20,10 @@ tags:
 - Druhy lidských potřeb:
 	- Primární(dýchání,potrava,spánek) x Sekundární(rozmnožování, vylepšení primárních potřeb)
 	- Fyzické x Psychické
+	- Individuální x Kolektivní
+
+## Hodina 3. 2.10.
+- Domácí úkol 10x lidské potřeby
+	- Příklad l.d - tři druhy lidských potřeb
+	- npř. Hra na klavír - Sekundární - Psychické - Individuální 
+	- 
