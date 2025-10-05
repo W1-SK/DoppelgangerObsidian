@@ -1,0 +1,9 @@
+- Kazdy patek Matyas vynese odpad ve svem pokoji, vynese papir a plast, snese nadobi(pokusi se kazdy den ale minimalne v patek), snese pradlo
+- Matyas musi vymyslet minimalne 15 jidel co ji a kazdy patek predat matce(sms, papir) co si kazdy den da k veceri
+- Vsichni si na vzajem budeme rikat vice pozitivni validace
+- Matyas pozada o papirovy zaznam popripade o hlasovy zaznam, ci jestli muze prizvat dalsi osobu co by si vysledek vysetreni vyslysel(Jde o zaznam z psychologickeho vysetreni dne 10.10.)
+- Kdyz uvari matka tak ja po jidle uklidim, kdyz jidlo uvarim ja tak po nem uklidi rodice
+- Kdyz kdokoliv bude mit spatny den tak to oznami frazi "Mam spatny den" ci necim podobnym ale bez vulgarnich slov. Na tuto frazi se bude ragovat tim ze se dane osoby nebudte vyptavat jaky den mel
+- Pokusime se aspon jednou mesicne se sejit a zahrat si spolecne deskovou nebo karetni hru. Aktivita na inicializaci tohoto hrani nebude prichazet jen z jedne strany ale ze stran vsech
+- Vecere a snidane budou spolecne a odhravat se v obyvacim pokoji/jidelne. Cas snidane bude matyas oznamovat den predem, presneji recenou bude oznamovat zda bude v nestandartnim case
+- Pri potrebe aby jsme se kontaktovali 

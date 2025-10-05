@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "1039c6bebc24ec8b",
+            "id": "ab76224feefceb97",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "temp1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "temp1"
             }
           }
         ],
@@ -187,16 +189,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1039c6bebc24ec8b",
+  "active": "ab76224feefceb97",
   "lastOpenFiles": [
     "Home.md",
+    "temp1.md",
     "Character Outline 1.md",
     "Projekt s krycím jménem Dej groš zaklínači/Mapa Obsahu.md",
     "Zápisky z videa - D&D.md",
     "Můj postup na tvoření světa.canvas",
     "Worldbuilding MO.md",
     "Why should you work with me - present.md",
-    "Untitled.md",
     "What is GitHub.md",
     "Website Project Brief.md",
     "TTRPG STUL.md",
