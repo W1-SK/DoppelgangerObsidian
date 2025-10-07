@@ -1,4 +1,9 @@
-#DnD #Advice #Hrac
+---
+tags:
+  - DnD
+  - Advice
+  - Hrac
+---
 
 https://www.cbr.com/dnd-how-to-be-a-better-player/
 

@@ -1,4 +1,8 @@
-#Fomos #Worldbuilding
+---
+tags:
+  - Fomos
+  - Worldbuilding
+---
 
 ### Historie  
 Co tahle civilizace vytvořila a co všechno přežila?

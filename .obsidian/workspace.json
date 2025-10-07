@@ -22,21 +22,33 @@
             }
           },
           {
-            "id": "ab76224feefceb97",
+            "id": "74c9f0aee378aad6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
+            "id": "3254a4d49240d6de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "temp1.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "temp1"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,10 +201,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ab76224feefceb97",
+  "active": "3254a4d49240d6de",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Home.md",
     "temp1.md",
+    "Worldbuilding project/Napady/Rozplánování.canvas",
+    "Ekonomika.md",
     "Character Outline 1.md",
     "Projekt s krycím jménem Dej groš zaklínači/Mapa Obsahu.md",
     "Zápisky z videa - D&D.md",
@@ -216,8 +231,6 @@
     "How to Build Compelling Characters - video.md",
     "Session minus.md",
     "D&D MO.md",
-    "H.E.R.M.E.T.I.C.S..md",
-    "G.R.A.P.E.S..md",
     "Projekt s krycím jménem Dej groš zaklínači",
     "Assets/mili.png",
     "Worldbuilding project/Rozplánování.canvas",

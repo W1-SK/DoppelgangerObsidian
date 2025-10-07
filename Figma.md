@@ -1,4 +1,8 @@
-#Figma #MO 
+---
+tags:
+  - Figma
+  - MO
+---
 
 Obsah
 - [[Learning figma]]

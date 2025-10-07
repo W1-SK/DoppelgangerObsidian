@@ -1,4 +1,9 @@
-#Fomos #Napad
+---
+tags:
+  - Fomos
+  - Napad
+---
+
 
 Vítej na místě kde se budou prostě házet nápady a blbosti co se možná rozhodnu využít nebo je tu nechám navždy. Prostě místo kde jsou neuhlazené výkřiky toho co mě zrovna napadlo.
 

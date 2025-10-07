@@ -1,4 +1,7 @@
-#WantToLearn 
+---
+tags:
+  - WantToLearn
+---
 
 - Godot
 - JS
