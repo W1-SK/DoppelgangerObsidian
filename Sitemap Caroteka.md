@@ -7,9 +7,29 @@ Home
 - Databáze
 	- Rasy
 	- Povolání
-	- 
+	- Odbornosti
+	- Možnosti přizpůsobení
+	- Zázemí
+	- Předměty
+	- Kouzla
+	- Slovníček pravidel
+	- Dobrodružství
+	- Příručky
+	- Stavy
 - Hráč
-	- a
+	- Knihovna kouzel
+	- Tahák při boji
 - DM
-	- a
-- oa
+	- Bestiář
+	- Generátor pokladu
+	- Generátor obchodů
+	- Soundboard
+- Svět
+	- Online encyklopedie
+	- Interaktivní mapa
+- Nastavení
+- Přihlášení/Registrace
+- Profil
+- 404 stránka
+- FAQ
+- Změny
