@@ -1,4 +1,8 @@
-#MO #Obsidian 
+---
+tags:
+- MO
+- Obsidian
+---
 
 Obsah:
 - [[Advanced slides]]

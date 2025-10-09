@@ -1,4 +1,7 @@
-#MO 
+---
+tags:
+- MO
+---
 
 Obsah
 - 

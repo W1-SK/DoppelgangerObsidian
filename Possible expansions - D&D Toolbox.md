@@ -1,4 +1,10 @@
-#StudentskyProjekt #DnD #Note #Idea
+---
+tags:
+- StudentskyProjekt
+- DnD
+- Note
+- Idea
+---
 
 ## Fantasy kalendář
 [Inspirace](https://fantasy-calendar.com/)

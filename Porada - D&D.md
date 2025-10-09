@@ -1,4 +1,9 @@
-#Note #Temp #DnD 
+---
+tags:
+- Note
+- Temp
+- DnD
+---
 
 Ahoj všichni, jsem rád, že jsme se sešli. Než začneme hrát tak je něco co by se mělo probrat. Už nějakou dobu to eskalovalo a minulou session to vybuchlo. Myslím, že by jsme si o tom měli popovídat ohledně respektu a fungování ve skupině. Pokud nevadí tak bych začal.
 Zdá se mi, že se vůči sobě vůbec nechováte s nějakou rovností, na některé z vás je brán větší ohled než na jiné. Také se někteří rvou hrozně moc do popředí a tím kradou zábavu ostatním. D&D je společenská hra o collaborative storytelling, takže je potřeba chápat, že tvá volnost končí tam kde cizí začíná. 

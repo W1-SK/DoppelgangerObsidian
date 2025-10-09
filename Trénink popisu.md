@@ -1,4 +1,8 @@
-#Notetaking #Trenink 
+---
+tags:
+- Notetaking
+- Trenink
+---
 
 Obsah:
 - [[Trénink 1 - 10.3.2025]]

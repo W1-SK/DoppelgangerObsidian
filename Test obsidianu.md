@@ -1,4 +1,7 @@
-#Obsidian
+---
+tags:
+- Obsidian
+---
 
 # Tohle je header
 ## Tohle je menší header

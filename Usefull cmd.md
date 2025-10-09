@@ -1,4 +1,8 @@
-#Tutorial #Obsidian
+---
+tags:
+- Tutorial
+- Obsidian
+---
 
 Sem přidávej cmd co najdeš ať se na ně můžeš pak zpětně koukat.
 

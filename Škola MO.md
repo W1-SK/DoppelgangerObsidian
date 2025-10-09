@@ -1,4 +1,7 @@
-#MO 
+---
+tags:
+- MO
+---
 
 Mapy Obsahu:
 - [[Kybernetická bezpečnost]]

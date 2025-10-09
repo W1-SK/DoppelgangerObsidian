@@ -1,4 +1,9 @@
-#DnD #Advice #DM
+---
+tags:
+- DnD
+- Advice
+- DM
+---
 
 ## Úvod
 Tento manuál je určen pro všechny Dungeon Mastery, kteří chtějí zlepšit přípravu svých her a zároveň udržet vysokou míru hráčské autonomie. Vychází z osvědčeného přístupu, který kombinuje metody pečlivé přípravy a improvizace, inspirované slavnými autory, jako jsou J.R.R. Tolkien a Stephen King. Cílem je připravit hru, která poskytne dostatečnou volnost pro hráče, aby se cítili důležití, a zároveň zachovala strukturu, která usnadní hladký průběh hry.
@@ -33,4 +38,3 @@ I když máte dobře připravený úvod, musíte být připraveni na to, že hr�
 
 ## Závěr
 Tento přístup spojuje pečlivé plánování a flexibilní improvizaci. Nejdůležitější je najít rovnováhu mezi těmito dvěma aspekty, abyste hráčům poskytli dostatek prostoru pro jejich vlastní rozhodnutí a zároveň udrželi plynulý a zábavný průběh hry.
-

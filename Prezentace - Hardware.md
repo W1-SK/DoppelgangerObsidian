@@ -1,4 +1,8 @@
-#School #Hardware
+---
+tags:
+- School
+- Hardware
+---
 
 # **Y2K - Apokalypsa, která nikdy nenastala?**
 

@@ -1,4 +1,9 @@
-#School #StudentskyProjekt #Note
+---
+tags:
+- School
+- StudentskyProjekt
+- Note
+---
 
 ## Cíl projektu
 Vytvořit multifunkční herní stůl určený primárně pro deskové hry a stolní RPG, který zároveň plní i běžnou funkci jídelního stolu. Hráči budou moci nechat rozehranou hru uloženou v dutině stolu a přecházet ke každodenním činnostem (např. jídlu), aniž by museli sklízet herní komponenty. Součástí návrhu budou modulární doplňky, jako věže na kostky, držáky na pití nebo karty, které lze snadno připevnit a odejmout podle potřeb konkrétní hry.

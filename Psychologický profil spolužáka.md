@@ -1,4 +1,10 @@
-#Note #Temp #School #Psychology
+---
+tags:
+- Note
+- Temp
+- School
+- Psychology
+---
 
 **Téma: Psychologie osobnosti** 
 
@@ -135,4 +141,3 @@ Z analyzovaných odpovědí vyplývá, že se jedná o introvertní, vnitřně o
 **Tip na autora vyplněného dotazníku:**
 
 "Zdá se, že jsi člověk, který si drží odstup a nerad ukazuje slabost. Ale i když ti může připadat, že musíš vše zvládnout sám, není známkou slabosti obrátit se na druhé. Možná bys mohl přemýšlet, jestli někdy tvé rozhodnosti nepředchází strach – a jestli bys občas neměl nechat druhé nahlédnout za tu kontrolu, kterou se snažíš neustále držet pevně v rukou."
-

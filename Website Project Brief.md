@@ -1,4 +1,7 @@
-#StudentskyProjekt 
+---
+tags:
+- StudentskyProjekt
+---
 # Čarotéka stručný popis
 
 ## Přehled projektu

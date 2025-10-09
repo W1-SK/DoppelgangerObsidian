@@ -1,4 +1,10 @@
-#Trenink #Popis #DnD #Psani
+---
+tags:
+- Trenink
+- Popis
+- DnD
+- Psani
+---
 
 **Vizuální popis**  
 Představ si temný hvozd, který hráči právě objevili. Napiš 3–5 vět, které zachytí jeho atmosféru.

@@ -1,4 +1,8 @@
-#DnD #MO
+---
+tags:
+- DnD
+- MO
+---
 
 Kdybys nemohl najít video tak tady mas playlisty kam si průběžně ukládáš zajímavá videa s D&D tématikou.
 - [Můj](https://www.youtube.com/watch?v=PydSva7lHdk&list=PLBWJblWzQ1meckAt_Elc5mElcwTYOL2lm)

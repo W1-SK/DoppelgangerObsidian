@@ -1,4 +1,8 @@
-#MO #Obsidian
+---
+tags:
+- MO
+- Obsidian
+---
 
 Mapy Obsahu:
 - [[Obsidan Plugin MO]]
