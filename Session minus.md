@@ -4,7 +4,6 @@ tags:
 - Napad
 - Original
 ---
-
 **Jak vést tvorbu postavy skrze session mínus**
 
 ### 1. Koncept systému

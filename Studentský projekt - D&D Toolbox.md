@@ -1,9 +1,9 @@
 ---
 tags:
-- MO
-- StudentskyProjekt
-- School
-- or
+  - MO
+  - StudentskyProjekt
+  - School
+  - Caroteka
 ---
 
 
@@ -13,6 +13,7 @@ Obsah
 - [[Possible expansions - D&D Toolbox]]
 - [[Time tracker - D&D Toolbox]]
 - [[Why should you work with me - present]]
+- [[Sitemap Caroteka]]
 
 Co se budu muset naučit, aby byl projekt možný udělat:
 - SQL Databáze or json?
