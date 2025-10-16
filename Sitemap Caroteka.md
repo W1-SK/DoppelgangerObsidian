@@ -20,6 +20,7 @@ Home
 - Hráč
 	- Knihovna kouzel
 	- Tahák při boji
+	- Deník postavy
 - DM
 	- Generátor pokladu
 	- Generátor obchodů
