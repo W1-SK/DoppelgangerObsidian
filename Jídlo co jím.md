@@ -59,4 +59,3 @@ tags:
 - Waffle
 - Kuřecí nuggety
 - Kobliha
-- 
