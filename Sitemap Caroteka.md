@@ -16,11 +16,11 @@ Home
 	- Dobrodružství
 	- Příručky
 	- Stavy
+	- Bestiář
 - Hráč
 	- Knihovna kouzel
 	- Tahák při boji
 - DM
-	- Bestiář
 	- Generátor pokladu
 	- Generátor obchodů
 	- Soundboard
