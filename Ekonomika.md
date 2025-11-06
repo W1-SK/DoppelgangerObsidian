@@ -60,3 +60,5 @@ Mytí oken – Věcná × Výsledek × Individuální
 Policie – Věcná × Průběh × Kolektivní
 Masér – Osobní × Průběh × Individuální
 Poštovní doručování – Věcná × Výsledek × Individuální
+
+## 7 Oprava písemné práce 6.11.
