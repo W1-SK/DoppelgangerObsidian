@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Eko",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -86,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "edf3b1bf82825512",
@@ -98,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Home.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3a8e81ce0ab52752",
   "lastOpenFiles": [
     "Home.md",
     "How to Build Compelling Characters - video.md",
