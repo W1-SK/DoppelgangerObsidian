@@ -1,0 +1,3 @@
+## Osobnost
+### Vady
+- Jsi extrémně 
