@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Ekonomika"
             }
+          },
+          {
+            "id": "ea0c78207ef3a723",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,8 +189,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ea0c78207ef3a723",
   "lastOpenFiles": [
+    "Ekonomika.md",
+    "conflict-files-obsidian-git.md",
     "Home.md",
     "Jídlo co jím.md",
     "Sitemap Caroteka.md",
@@ -188,12 +205,10 @@
     "Depresivní porucha.md",
     "temp1.md",
     "D&D MO.md",
-    "conflict-files-obsidian-git.md",
     "Fomos - To Do.md",
     "Kybernetická bezpečnost.md",
     "H.E.R.M.E.T.I.C.S..md",
     "Worldbuilding project/Napady/Rozplánování.canvas",
-    "Ekonomika.md",
     "Character Outline 1.md",
     "Projekt s krycím jménem Dej groš zaklínači/Mapa Obsahu.md",
     "Zápisky z videa - D&D.md",
