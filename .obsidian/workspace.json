@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f61c6ddcece0f5d2",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "a3833d401cdf5f33",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,12 +174,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3833d401cdf5f33",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home.md",
     "Yuumi-DnD.md",
     "Ekonomika.md",
     "conflict-files-obsidian-git.md",
-    "Home.md",
     "Jídlo co jím.md",
     "Sitemap Caroteka.md",
     "Studentský projekt - D&D Toolbox.md",

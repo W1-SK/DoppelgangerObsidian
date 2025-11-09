@@ -23,7 +23,6 @@
 	- Hrobu
 - Druid
 	- Kruh snu
-- Mutliclass s Tulakem
 ## Rasa
 - Tabaxi
 ### Zazemi
