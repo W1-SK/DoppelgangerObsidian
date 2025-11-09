@@ -21,14 +21,21 @@
 ### Povolani
 - Klerik
 	- Hrobu
-	- Svetla
-	- Zivota
 - Druid
 	- Kruh snu
-- Warlock/Bard multiclass
-	- Nebestan
+- Mutliclass s Tulakem
 ## Rasa
 - Tabaxi
 ### Zazemi
 - Mudrc
 - Ulicnik
+### Extras
+- Misto stredni velikosti jsem maly(jako treba hobit nebo gnom)
+- Nemam drapky, a tak nemuzu sekat ani nemam rychlost v lezeni
+- Misto toho ale mam jedno z nasledujicich
+	- 1x za kratky odpocinek mam 1k4+Moundrost leceni na dosah 5ft/dotyk; Na urovni 6 se to zvysi na 2k4 nebo to mam 2x za kratky odpocinek
+	- 1x za kratky odpocinek mam mlzny krok; na urovno 5 to mam 2x
+
+
+## Cool hlasky
+- Zloděj zůstane zlodějem… jen už neberu, ale vracím.
