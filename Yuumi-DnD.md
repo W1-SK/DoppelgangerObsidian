@@ -4,6 +4,7 @@
 - [ ] Udelat si easy to follow guide jak ji hrat
 - [ ] Vytvorit silny lore oduvodneni proc ma healing hands
 - [ ] Sepsat jeji backstory
+- [ ] Udelat 2 moznosti pro klerika a druida
 ## Osobnost
 ### Vady
 - Jsi extrémně žárlivý a když někdo, nebo něco dostává více pozornosti než ty, tak mas potřebu si tu pozornost zase brát pro sebe, nebo se chovat uraženě(Možná to není nejlepší nápad, máme ve skupině lidi co si nejsou schopní vzít spotlight, takže bych možná neměl těm co s tím mají problém ten spotlight krást)
@@ -23,8 +24,8 @@
 - Vzala jsem si jeho knihu a vse co se mi zdalo ze by mi mohlo pomoct a vydala jsem se Mistra hledat, at uz me to zavede kamkoliv klidne i do jinych dimenzi
 - Behem hledani jsem narazil na skupinu a stal jsem se jeji soucasti{tady bych to klidne udelal, ze jsem se nejdriv potkal s jednim z hracu a pak az z celou skupinou ale idk to ted asi nedam bez zbytku skupiny}
   
-## Pravidlove veci
-### Povolani
+## Pravidlove veci (Ani jedno nema misty step)
+### Povolani 
 - Klerik
 	- Hrobu
 - Druid
