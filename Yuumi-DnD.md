@@ -2,9 +2,10 @@
 - [ ] Udelat denik postavy
 - [ ] Domyslet osobnost
 - [ ] Udelat si easy to follow guide jak ji hrat
-- [ ] Vytvorit silny lore oduvodneni proc ma healing hands
+- [ ] Vytvorit silny lore oduvodneni proc ma healing hands, nebo lepe misty step(amulet? uwu)
 - [ ] Sepsat jeji backstory
 - [ ] Udelat 2 moznosti pro klerika a druida
+- [ ] Vymyslet si predeslou backstory s vitkem nez jsme se potkali se zbytkem skupiny
 ## Osobnost
 ### Vady
 - Jsi extrémně žárlivý a když někdo, nebo něco dostává více pozornosti než ty, tak mas potřebu si tu pozornost zase brát pro sebe, nebo se chovat uraženě(Možná to není nejlepší nápad, máme ve skupině lidi co si nejsou schopní vzít spotlight, takže bych možná neměl těm co s tím mají problém ten spotlight krást)
