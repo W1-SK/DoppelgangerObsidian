@@ -1,3 +1,9 @@
+## TO DO
+- [ ] Udelat denik postavy
+- [ ] Domyslet osobnost
+- [ ] Udelat si easy to follow guide jak ji hrat
+- [ ] Vytvorit silny lore oduvodneni proc ma healing hands
+- [ ] Sepsat jeji backstory
 ## Osobnost
 ### Vady
 - Jsi extrémně žárlivý a když někdo, nebo něco dostává více pozornosti než ty, tak mas potřebu si tu pozornost zase brát pro sebe, nebo se chovat uraženě(Možná to není nejlepší nápad, máme ve skupině lidi co si nejsou schopní vzít spotlight, takže bych možná neměl těm co s tím mají problém ten spotlight krást)
@@ -38,3 +44,5 @@
 
 ## Cool hlasky
 - Zloděj zůstane zlodějem… jen už neberu, ale vracím.
+
+
