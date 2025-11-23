@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yuumi-DnD.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yuumi-DnD"
+              "title": "Home"
             }
           }
         ]
@@ -176,9 +176,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Yuumi-DnD.md",
     "Home.md",
     "conflict-files-obsidian-git.md",
-    "Yuumi-DnD.md",
     "ReadMe.md - D&D Toolbox.md",
     "Ekonomika.md",
     "Jídlo co jím.md",
