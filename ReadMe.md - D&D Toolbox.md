@@ -200,10 +200,10 @@ Prozatím ne, dělame to jako studentský projekt do školy.
 [Autoři](#autoři)
 
 ## O projektu
-Čarotéka vzniká z potřeby sjednotit a vytvořit veškeré české nástroje a informace o D&D 5e. Z vlastní zkušenosti vím, že hledání materiálu v češtině, může být zdlouhavé a někdy i nepřesné, nemluvě o 
+Čarotéka vzniká z potřeby sjednotit a vytvořit veškeré české nástroje a informace o D&D 5e. Z vlastní zkušenosti vím, že hledání materiálu v češtině, může být zdlouhavé a někdy i nepřesné, nemluvě o užitečných nástrojích co v češtině ani neexistují. Tento projekt má za ambici stát se "centrálou" pro všechny vaše D&D potřeby.
 ## Hlavní funkce
 ### Databáze
-- Celá v 
+- Celá v češtině
 - Detailní filtrování
 ### Hráč
 - Knihovna kouzel
