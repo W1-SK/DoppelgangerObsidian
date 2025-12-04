@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yuumi-DnD.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yuumi-DnD"
+              "title": "Home"
+            }
+          },
+          {
+            "id": "9c1c368b9f78dac8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,9 +187,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9c1c368b9f78dac8",
   "lastOpenFiles": [
     "Home.md",
+    "Untitled.md",
     "Yuumi-DnD.md",
     "Ekonomika.md",
     "conflict-files-obsidian-git.md",
@@ -203,7 +217,6 @@
     "Why should you work with me - present.md",
     "What is GitHub.md",
     "Website Project Brief.md",
-    "TTRPG STUL.md",
     "Projekt s krycím jménem Dej groš zaklínači",
     "Assets/mili.png",
     "Worldbuilding project/Rozplánování.canvas",
