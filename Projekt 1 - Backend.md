@@ -5,7 +5,6 @@ tags:
 ---
 V tomhle projektu jsem začal s tím, že jsem chtěl poprvé namočit své prsty do umění [[Backend]].
 Na začátku jsem si stáhl potřebné věci jako byli VSCode, Docker, Node.js a Express. Ve VSCode jsem inicializoval projekt pomoci `npm init -y` a nainstaloval express pomocí `npm install express --save`. Vytvořila se pro nás zajímavá file jménem **package.json**, ve které se ukládá takové nastavení ohledně našeho programu. Po nainstalování express se do této file přidala nová část jménem dependencies, kde se napíší, všechny externí programy, na kterých náš program závisí.
-
 *package.json:*
 ```json
 {
@@ -66,7 +65,7 @@ A upravil jsem `"dev": "node server.js"` na `"dev": "nodemon server.js"`. Teď k
 Taky si můžeme ozkoušet, že ten server opravdu běží. Když půjdeme do webového prohlížeče a zadáme jeho URL **http://localhost:8383** nebo jeho IP **127.0.0.1:8383**, tak se nám na obrazovce objeví *Cannot GET /*.
 Teď víme, že budeme specifikovat **HTTPS VERBS**([[Metody]]), **Routes**(trasy) **Paths**(cesty). VERBS jsou třeba GET, POST a HEAD, zatímco Routes určuje co aplikace udělá, když někdo přijde na danou path(kombinace: path + HTTP metoda + logika) a Path je konkrétní adresa kam uživatel/klient posílá požadavek. Do server.js jsem si dopsal následující
 ```JS
-// HTTP VERBS && Routes (nebo paths)
+// HTTP VERBS (neboli method) && Routes (nebo paths)
 
 // Metoda nám řekne o jaký typ požadavku se jedná a trasa je taková podsložka (praktaicky přesměrujeme požadavek na ten kus kódu, aby jsme odpovědeli tím co po nás požaduje. Těmto lokacím a trasám říkáme endpointy)
 
@@ -82,7 +81,7 @@ Kde jsem specifikoval metodu pomocí `.get`, pomocí `'/'` cestu a následovně 
 Server začal běžet na: 8383
 Jupí našel jsem endpoint
 ```
-Tak a teď co jsou ty *req* a *res*? to jsou dvě proměnné, které mohu použít na různé věci. **Req** mi slouží na získání toho co posílá klient serveru a **Res** mi slouží na reprezentaci toho co pošle server zpět klientovi. Pro vyzkoušení jsem v server.js změnil `app.get()` následovně
+Tak a teď co jsou ty *req* a *res*? to jsou dvě zkráceniny pro [[request]] a [[response]], které mohu použít na různé věci. **Req** mi slouží na získání toho co posílá klient serveru a **Res** mi slouží na reprezentaci toho co pošle server zpět klientovi. Pro vyzkoušení jsem v server.js změnil `app.get()` následovně
 ```JS
 app.get('/', (req, res) => {
     // Tohle je endpoint #1 - /
@@ -98,3 +97,22 @@ Server začal běžet na: 8383
 Jupí našel jsem endpoint GET
 ```
 `.sendStatus()` je metoda co posílá [[Status kód]]. 200 je právě ten důvod proč se zjeví OK.
+
+Kdybych chtěl udělat další endpoint tak mi stačí udělat následovné
+```JS
+app.get('/blazinek', (req,res) => {
+	// Tohle je endpoint #2 - /blazinek
+    console.log('Ty jsi to našel ty blázínku')
+    res.send('Ahojda')
+})
+```
+a mám nový endpoint na  http://127.0.0.1:8383/blazinek, který vrací status kód 200 a v prohlížeči se mi místo OK zobrazuje *Ahojda*.
+
+Teď bych chtěl poslat nějaký html a upřímně udělám to tím nejlínějším způsobem co jde. `res.send('TADY DÁM HTML KÓD')` a to bude vypadat následovně
+```JS
+app.get('/', (req, res) => {
+    // Tohle je endpoint #1 - /
+    res.send('<h1>Tohle je opravdová stránka. TRUST ;) </h1><input/>')
+})
+```
+A teď se mi do html body dá h1 s textem *Tohle je opravdová stránka. TRUST ;* a pod tím input pole.
