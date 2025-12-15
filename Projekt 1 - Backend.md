@@ -134,3 +134,83 @@ Connection: close
 
 <h1>Vítejte na domovské stránce</h1><input/>
 ```
+Taky jsem přepsal server.js, aby mi byla příjemnější,
+```JS
+//Adressa tohto serveru je:
+// URL -> http://localhost:8383
+// IP --> 127.0.0.1:8383
+
+const express = require('express') //Ujistíme se, že máme express a uložíme ho do proměné
+const app = express() //Inicializujeme backend aplikaci
+const PORT = 8383
+
+let data = {
+    name: 'james'
+}
+
+// ENDPOINT - HTTP VERBS (neboli method) && Routes (nebo paths)
+// Metoda nám řekne o jaký typ požadavku se jedná a trasa je taková podsložka (praktaicky přesměrujeme požadavek na ten kus kódu, aby jsme odpovědeli tím co po nás požaduje. Těmto lokacím a trasám říkáme endpointy)
+
+// Endpointy stránek (tyhle endpointy jsou pro posílání zpět HTML a většinou se používají když uživatel zadá URL do prohlížeče)
+app.get('/', (req, res) => {
+    // Tohle je endpoint #1 - /
+    res.send('<h1>Vítejte na domovské stránce</h1><input/>')
+})
+
+app.get('/blazinek', (req,res) => {
+    // Tohle je endpoint #2 - /blazinek
+    res.send('<h1>Vítejte na blázinkovi</h1>')
+}) 
+  
+// Endpointy API (Bez vizuálu)
+app.get('/api/data', (req, res) => {
+    console.log('Tenhle je pro data')
+    res.send(data)
+})
+
+app.listen(PORT, () => console.log(`Server začal běžet na: ${PORT}`))
+```
+kde jsem si rozdělil endpointy na stránky a API, což je takové příjemnější pro strukturu.
+
+Pokud bych chtěl zobrazit ty data na nějaké stránce mohl bych to udělat zapomoci
+```JS
+app.get('/', (req, res) => {
+    // Tohle je endpoint #1 - /
+    res.send(`
+        <body>
+            <p>${JSON.stringify(data)}</p>
+        </body>
+        `)
+})
+```
+`JSON.stringify(TEN JSON CO CHCI ZOBRAZIT)` a to mi zobrazí v html obsah data, neboli *{"name":"james"}*.
+
+Už mě nebaví jen přijímat data, rád bych tomu serveru i nějaké data poslal. Na to budu muset použít jinou metodu a to metodu **POST**. Pojďme si napsat další endpoint
+```JS
+app.post('/api/data', (req, res) => {
+    // Chce vytvořit uživatele (třeba když klikne na tlačíko přihlásit se)
+    // Uživatel klikne na tlačítko přihlásit se poté co vyplní osobní údaje. Prohlížeč je nastaven na to, že pošle požadavek na server aby to pořešil
+    const newData = req.body
+    console.log(newData)
+    res.sendStatus(201)
+})
+```
+a k tomu i způsob jak to otestovat
+```JSON
+### DATA ENDPOINT PŘIDÁNÍ UŽIVATELE
+POST http://localhost:8383/api/data
+Content-Type: application/json
+
+{
+    "name": "magůrek"
+}
+```
+Skvělé ale je tu menší háček, do server.js jsem si přidal `console.log(newData)` to mi bohužel vrací do konzole *undefined*. Aby mi to ukazovalo správně musím nastavit další věc a to [[Middleware]]. Do server.js tedy přidáme
+```JS
+// Middleware
+app.use(express.json())
+```
+A teď když spustíme test tak nám konzole vypíše
+```
+
+```
