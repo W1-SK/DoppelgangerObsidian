@@ -116,3 +116,21 @@ app.get('/', (req, res) => {
 })
 ```
 A teď se mi do html body dá h1 s textem *Tohle je opravdová stránka. TRUST ;* a pod tím input pole.
+
+Než začnem s dalšími úpravami tak jsem nainstaloval plugin jménem Rest client, který upožňuje posílat HTTP požadavky na backend, bez toho abych musel tvořit frontend. Následně jsem si vytvořil **test.rest** file, do které jsem vložil
+```json
+### TEST GET / WEBSITE
+GET http://localhost:8383/
+```
+což mi při kliknutí na *Send request* vrátí
+```http
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 47
+ETag: W/"2f-wxyAnHmDlH5FkN7FWjx7u4TrTfI"
+Date: Mon, 15 Dec 2025 18:38:22 GMT
+Connection: close
+
+<h1>Vítejte na domovské stránce</h1><input/>
+```
