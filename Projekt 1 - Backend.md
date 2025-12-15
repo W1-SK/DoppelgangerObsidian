@@ -52,7 +52,7 @@ Server začal běžet na: 8383
 ```
 
 Tohle stáhle ale není zbůsob jak nakonec budu spouštět tyto scripty. A proč? protože kdybych přišel a do původního server.js bych dodal třeba `console.log('Ahoj světe')`, tak bych musel vypnout a zapnout script, abych změnu viděl. To není chování co od toho požaduji.
-Z tohoto důvodu nainstaluji **nodemon**, tohle ale není něco co budu potřebovat, když to budu pusovat do produkce a je to potřeba jen pro mě jako developera. Pro to použiji jiný způsob instalace `npm install nodemon --save-dev nodemon`, kde to pak v package.json vypadá následovně
+Z tohoto důvodu nainstaluji **nodemon**, tohle ale není něco co budu potřebovat, když to budu pusovat do produkce a je to potřeba jen pro mě jako developera. Pro to použiji jiný způsob instalace `npm install nodemon --save-dev nodemon`, kde to pak v package.json vypadá následovně:
 ```JSON
   "dependencies": {
     "express": "^5.2.1"
@@ -62,4 +62,6 @@ Z tohoto důvodu nainstaluji **nodemon**, tohle ale není něco co budu potřebo
   }
 }
 ```
-A upravil jsem `"dev": "node server.js"` na `"dev": "nodemon server.js"`
+A upravil jsem `"dev": "node server.js"` na `"dev": "nodemon server.js"`. Teď když znovu spustíme script za pomoci ``npm run dev``, tak kdykoliv uložíme server.js tak se nám v konzoli obnoví script a vidíme aktuální output.
+Taky si můžeme ozkoušet, že ten server opravdu běží. Když půjdeme do webového prohlížeče a zadáme jeho URL **http://localhost:8383** nebo jeho IP **127.0.0.1:8383**, tak se nám na obrazovce objeví *Cannot GET /*.
+Teď víme, že budeme specifikovat **HTTPS VERBS**(metody), **Routes**(trasy) **Paths**(cesty). VERBS jsou třeba GET, POST a HEAD, zatímco Routes určuje co aplikace udělá, když někdo přijde na danou path(kombinace: path + HTTP metoda + logika) a Path je konkrétní adresa kam uživatel/klient posílá požadavek.
