@@ -187,11 +187,14 @@ app.get('/', (req, res) => {
 
 Už mě nebaví jen přijímat data, rád bych tomu serveru i nějaké data poslal. Na to budu muset použít jinou metodu a to metodu **POST**. Pojďme si napsat další endpoint
 ```JS
+let data = ['James']
+
 app.post('/api/data', (req, res) => {
     // Chce vytvořit uživatele (třeba když klikne na tlačíko přihlásit se)
     // Uživatel klikne na tlačítko přihlásit se poté co vyplní osobní údaje. Prohlížeč je nastaven na to, že pošle požadavek na server aby to pořešil
     const newData = req.body
     console.log(newData)
+    data.push(newData.name)
     res.sendStatus(201)
 })
 ```
@@ -202,7 +205,7 @@ POST http://localhost:8383/api/data
 Content-Type: application/json
 
 {
-    "name": "magůrek"
+    "name": "Magůrek"
 }
 ```
 Skvělé ale je tu menší háček, do server.js jsem si přidal `console.log(newData)` to mi bohužel vrací do konzole *undefined*. Aby mi to ukazovalo správně musím nastavit další věc a to [[Middleware]]. Do server.js tedy přidáme
@@ -211,6 +214,148 @@ Skvělé ale je tu menší háček, do server.js jsem si přidal `console.log(ne
 app.use(express.json())
 ```
 A teď když spustíme test tak nám konzole vypíše
+```Shell
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+Server začal běžet na: 8383
+{ name: 'Magůrek' }
+```
+a né to co předtím
+```Shell
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+Server začal běžet na: 8383
+undefined
+```
+Po tomhle všem když si načteme stránku http://localhost:8383/ tak uvidíme, že je vypsán James, když ale spustíme náš test, tak se do pole pushne Magůrek a při refreshnuti stránky se nám zobrazí ["James","Magůrek"].
+
+Teď co když přidám uživatele a nechci ho tom? potřebujeme možnost mazat. Vytvoříme si další endpoint tentokrát s metodou **DELETE**
+```JS
+app.delete('/api/data', (req, res) => {
+    data.pop()
+    console.log('Uživatel z konce pole byl smazán')
+    res.sendStatus(203)
+})
+```
+a rovnou si k tomu napíšeme i test
+```JSON
+### DATA ENDPOINT ODEBRÁNÍ UŽIVATELE
+DELETE http://localhost:8383/api/data
+```
+A teď když spustíme náš test tak ze odebere poslední přidaný uživatel. Tak tohle bude, vše co s tímhle projektem uděláme. Skoro jsem vytvořili [[CRUD]] aplikaci, bohužel nám chybí update funkce.
+
+
+Přidávám obsahy všech files:
+**package.json**:
+```JSON
+{
+  "name": "chapter_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
 ```
 
+**server.js**:
+```JS
+//Adressa tohto serveru je: 
+// URL -> http://localhost:8383 
+// IP --> 127.0.0.1:8383
+const express = require('express') //Ujistíme se, že máme express a uložíme ho do proměné
+const app = express() //Inicializujeme backend aplikaci
+const PORT = 8383
+
+let data = ['James']
+
+// Middleware
+app.use(express.json())
+
+// ENDPOINT - HTTP VERBS (neboli method) && Routes (nebo paths)
+// Metoda nám řekne o jaký typ požadavku se jedná a trasa je taková podsložka (praktaicky přesměrujeme požadavek na ten kus kódu, aby jsme odpovědeli tím co po nás požaduje. Těmto lokacím a trasám říkáme endpointy)
+
+// Endpointy stránek (tyhle endpointy jsou pro posílání zpět HTML a většinou se používají když uživatel zadá URL do prohlížeče)
+app.get('/', (req, res) => {
+    // Tohle je endpoint #1 - /
+    res.send(`
+        <body style="background: grey; color: blue;">
+            <h1>DATA:</h1>
+            <p>${JSON.stringify(data)}</p>
+            <a href="/blazinek">Blazinek</a>
+        </body>
+        `)
+})
+
+app.get('/blazinek', (req,res) => {
+    // Tohle je endpoint #2 - /blazinek
+    res.send(`
+         <body style="background: yellow; color: purple;">
+            <h1>Blazinek</h1>
+            <a href="/">Domu</a>
+        </body>
+        `)
+})
+
+
+// Endpointy API (Bez vizuálu)
+
+//CRUD-metoda - Crate-post Read-get Update-put Delete-delete
+app.get('/api/data', (req, res) => {
+    console.log('Tenhle je pro data')
+    res.status(599).send(data)
+})
+
+app.post('/api/data', (req, res) => {
+    // Chce vytvořit uživatele (třeba když klikne na tlačíko přihlásit se)
+    // Uživatel klikne na tlačítko přihlásit se poté co vyplní osobní údaje. Prohlížeč je nastaven na to, že pošle požadavek na server aby to pořešil
+    const newData = req.body
+    console.log(newData)
+    data.push(newData.name)
+    res.sendStatus(201)
+})
+
+app.delete('/api/data', (req, res) => {
+    data.pop()
+    console.log('Uživatel z konce pole byl smazán')
+    res.sendStatus(203)
+})
+
+
+app.listen(PORT, () => console.log(`Server začal běžet na: ${PORT}`))
+```
+
+**test.rest**:
+```JSON
+### TEST GET / WEBSITE
+GET http://localhost:8383/
+
+### TEST GET /blazinek WEBSITE
+GET http://localhost:8383/blazinek
+
+### DATA ENDPOINT
+GET http://localhost:8383/api/data
+
+### DATA ENDPOINT PŘIDÁNÍ UŽIVATELE
+POST http://localhost:8383/api/data
+Content-Type: application/json
+
+{
+    "name": "Magůrek"
+}
+
+### DATA ENDPOINT ODEBRÁNÍ UŽIVATELE
+DELETE http://localhost:8383/api/data
 ```

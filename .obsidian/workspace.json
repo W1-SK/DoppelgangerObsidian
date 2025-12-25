@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projekt 1 - Backend.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projekt 1 - Backend"
+              "title": "Home"
             }
           }
         ]
@@ -176,8 +176,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Home.md",
     "Projekt 1 - Backend.md",
+    "Home.md",
     "Backend.md",
     "Worldbuilding project/Napady/Nápady seznam - Mythoria.md",
     "Yuumi-DnD.md",
