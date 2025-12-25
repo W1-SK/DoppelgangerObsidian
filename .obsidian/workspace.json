@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kampaň 2 - TO BE ADDED.md",
+                "file": "Kampan 2/Kampaň 2 - TO BE ADDED.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zápisky Netherdeep.md",
+                "file": "Kampan 2/Zápisky Netherdeep.md",
                 "mode": "source",
                 "source": false
               },
@@ -191,8 +191,9 @@
   },
   "active": "76433517d1b39942",
   "lastOpenFiles": [
-    "Zápisky Netherdeep.md",
-    "Kampaň 2 - TO BE ADDED.md",
+    "Kampan 2/Kampaň 2 - TO BE ADDED.md",
+    "Kampan 2/Zápisky Netherdeep.md",
+    "Kampan 2",
     "Home.md",
     "Projekt 1 - Backend.md",
     "Backend.md",
@@ -217,7 +218,6 @@
     "H.E.R.M.E.T.I.C.S..md",
     "Worldbuilding project/Napady/Rozplánování.canvas",
     "Character Outline 1.md",
-    "Projekt s krycím jménem Dej groš zaklínači/Mapa Obsahu.md",
     "Můj postup na tvoření světa.canvas",
     "Projekt s krycím jménem Dej groš zaklínači",
     "Assets/mili.png",
@@ -239,7 +239,6 @@
     "export/Proč tenhle studentský projekt - present/plugin/chalkboard",
     "export/Proč tenhle studentský projekt - present/plugin/chart/plugin.js",
     "export/Proč tenhle studentský projekt - present/plugin/chart/chart.min.js",
-    "export/Proč tenhle studentský projekt - present/plugin/chart",
     "Worldbuilding project/Rozplanovani 1.canvas"
   ]
 }
