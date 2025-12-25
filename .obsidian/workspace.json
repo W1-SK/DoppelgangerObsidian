@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projekt 1 - Backend.md",
+                "file": "Kampan 2/Zápisky Netherdeep.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Projekt 1 - Backend"
+              "title": "Backlinks for Zápisky Netherdeep"
             }
           },
           {
@@ -157,16 +157,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "Kampan 2/Zápisky Netherdeep.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Zápisky Netherdeep"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
