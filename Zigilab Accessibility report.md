@@ -52,55 +52,47 @@ Uživatelé čteček obrazovky se často pohybují po stránce právě pomocí n
 ---
 
 ## 3. Obrázky bez alternativního textu (`alt`)
-
 **WCAG: Non-text Content**
 
-Na webu se nachází obrázky, které **nemají vyplněný atribut `alt`**, například:
-
+Na webu se nachází cca 2 obrázky, které **nemají vyplněný atribut `alt`**:
 ```html
-<img src="//shop.zigilab.cz/wp-content/uploads/2025/11/background_zl.jpg" ...>
+<img src="//shop.zigilab.cz/wp-content/uploads/2025/11/background_zl.jpg" style="position: absolute; margin: 0px; padding: 0px; border: none; width: 1440px; height: 930.833px; max-height: none; max-width: none; z-index: -999999; left: 0px; top: -65.4167px;">
+<img src="//shop.zigilab.cz/wp-content/uploads/2025/11/background_zl.jpg" style="position: absolute; margin: 0px; padding: 0px; border: none; width: 1305.67px; height: 844px; max-height: none; max-width: none; z-index: -999999; left: -457.834px; top: 0px;">
 ```
 
 ### Proč je to problém
-
-Bez alternativního textu nemají uživatelé čteček obrazovky žádnou informaci o tom, co obrázek představuje – nebo zda má vůbec nějaký význam.
+Bez alternativního textu nemají uživatelé čteček obrazovky žádnou informaci o tom, co obrázek představuje nebo zda má vůbec nějaký význam.
 
 ### Doporučení
-
 * U **obsahových obrázků** použít smysluplný `alt` popis
 * U **čistě dekorativních obrázků** použít prázdný atribut `alt=""`
 * V případě potřeby lze využít:
-
   * `aria-label`
   * `aria-labelledby` (napojení na existující text nebo nadpis)
 
 ---
 
 ## 4. Odkazy bez srozumitelného textu
-
 **WCAG: Link Purpose (In Context)**
 
-Na webu se nachází odkazy, které jsou tvořeny pouze ikonou a **nemají žádný čitelný nebo programově dostupný text**, například:
-
+Na webu se nachází ~3 odkazy, které jsou tvořeny pouze ikonou a **nemají žádný čitelný nebo programově dostupný text**, například:
 ```html
-<a class="x-anchor x-anchor-button has-graphic" href="#">…</a>
+<a class="x-anchor x-anchor-button has-graphic e18-e9 mi-g mi-h" tabindex="0" href="#"><div class="x-anchor-content"><span class="x-graphic" aria-hidden="true"><i class="x-icon x-graphic-child x-graphic-icon x-graphic-primary" aria-hidden="true" data-x-icon-b=""></i></span></div></a>
+<a class="x-anchor x-anchor-button has-graphic e18-e11 mi-g mi-h" tabindex="0" href="#"><div class="x-anchor-content"><span class="x-graphic" aria-hidden="true"><i class="x-icon x-graphic-child x-graphic-icon x-graphic-primary" aria-hidden="true" data-x-icon-b=""></i></span></div></a>
+<a class="x-anchor x-anchor-button has-graphic e18-e13 mi-g mi-h" tabindex="0" href="#"><div class="x-anchor-content"><span class="x-graphic" aria-hidden="true"><i class="x-icon x-graphic-child x-graphic-icon x-graphic-primary" aria-hidden="true" data-x-icon-b=""></i></span></div></a>
 ```
 
 Typicky se jedná o ikony sociálních sítí (Facebook, Instagram, LinkedIn).
 
 ### Proč je to problém
-
 Čtečka obrazovky bez popisu neví, kam odkaz vede. Pro uživatele se pak jedná o „nepojmenovaný odkaz“, což je velmi matoucí.
 
 ### Doporučení
-
 * Každý odkaz musí mít **srozumitelný popis účelu**
 * U ikonických odkazů použít:
-
   * `aria-label` (např. „Instagram – Zigilab“)
   * nebo `aria-labelledby`
 * Zachovat:
-
   * možnost fokusování klávesnicí
   * viditelný stav focusu
 * Vždy používat skutečný `<a href="">` prvek, ne náhrady přes JavaScript
@@ -108,19 +100,17 @@ Typicky se jedná o ikony sociálních sítí (Facebook, Instagram, LinkedIn).
 ---
 
 ## 5. Nesprávně strukturované seznamy
-
 **WCAG: Info and Relationships**
 
 Na některých místech nejsou seznamy vytvořeny pomocí sémantických HTML prvků, případně je struktura nejednoznačná.
-
+``` HTML
+<ul class="x-row e45-e6 m19-3 m19-6 m19-7 m19-b">
+```
 ### Proč je to problém
-
 Čtečky obrazovky se spoléhají na správnou strukturu (`<ul>`, `<ol>`, `<li>`). Pokud jsou seznamy „jen vizuální“, ztrácí se informace o vztazích mezi položkami.
 
 ### Doporučení
-
 * Používat:
-
   * `<ul>` pro nečíslované seznamy
   * `<ol>` pro číslované seznamy
 * Každou položku vkládat do `<li>`
@@ -129,19 +119,19 @@ Na některých místech nejsou seznamy vytvořeny pomocí sémantických HTML pr
 ---
 
 ## 6. Použití `<li>` mimo nadřazený seznam
-
 **WCAG: Info and Relationships**
 
 Byly nalezeny případy, kdy se `<li>` prvky nachází **mimo** rodičovský `<ul>` / `<ol>` prvek.
-
+```HTML
+<li class="x-col e45-e7 m19-e m19-f">
+<li class="x-col e45-e7 m19-e m19-f">
+<li class="x-col e45-e7 m19-e m19-f"><a class="x-anchor x-anchor-button e45-e8 m19-o m19-1" tabindex="0" href="https://shop.zigilab.cz/kategorie-produktu/dnd/"><div class="x-anchor-content"><div class="x-anchor-text"><span class="x-anchor-text-primary">DnD (14)</span></div></div></a></li>
+```
 ### Proč je to problém
-
 Samostatný `<li>` bez seznamu nedává asistenčním technologiím žádný smysl a může vést k dezorientaci uživatele.
 
 ### Doporučení
-
 * Každý `<li>` musí být vždy přímým potomkem:
-
   * `<ul>`
   * `<ol>`
   * nebo `<menu>`
@@ -149,29 +139,24 @@ Samostatný `<li>` bez seznamu nedává asistenčním technologiím žádný smy
 ---
 
 ## 7. Obsah mimo landmark regiony
-
 **WCAG / ARIA: Landmarks**
 
 Části obsahu (např. pozadí stránky) nejsou obaleny žádnými **landmark regiony**, například:
-
 ```html
-<div class="backstretch" style="position: fixed;">
+<div class="backstretch" style="left: 0px; top: 0px; overflow: hidden; margin: 0px; padding: 0px; height: 800px; width: 1440px; z-index: -999999; position: fixed;">
+<div class="backstretch" style="left: 0px; top: 0px; overflow: hidden; margin: 0px; padding: 0px; height: 844px; width: 390px; z-index: -999999; position: fixed;">
 ```
 
 ### Proč je to problém
-
 Landmarky umožňují uživatelům čteček obrazovky rychle se orientovat na stránce (hlavička, navigace, hlavní obsah, patička).
 
 ### Doporučení
-
 * Preferovat **nativní HTML5 prvky**:
-
   * `<header>`
   * `<nav>`
   * `<main>`
   * `<footer>`
 * Pokud to není možné, použít **ARIA role**:
-
   * `role="banner"`
   * `role="navigation"`
   * `role="main"`
@@ -180,11 +165,10 @@ Landmarky umožňují uživatelům čteček obrazovky rychle se orientovat na st
 ---
 
 ## Závěr
-
-Výše uvedené body nepředstavují „rozbitý web“, ale **konkrétní oblasti, kde lze výrazně zlepšit přístupnost** pro část uživatelů. Většina doporučení je:
-
-* technicky relativně jednoduchá
-* bez dopadu na vizuální design
-* a zároveň zvyšuje celkovou kvalitu a použitelnost webu
-
-Z pohledu WCAG se jedná o **typické a řešitelné problémy**, které je vhodné postupně odstranit, ideálně při běžném vývoji nebo redesignu.
+Pokud se body z reportu neopraveny, web **nevylučuje jen část uživatelů, ale potenciálně ztrácí zákazníky a reputaci**.
+* **Uživatelé se zdravotním postižením** nebudou schopní obsah vidět, číst ani použít – obrázky bez alt textu, špatný kontrast a špatně označené odkazy znamenají, že se jednoduše ztratí.
+* **Ztráta zákazníků a tržeb** – cca 15 % populace má nějaké postižení; pokud web není přístupný, část trhu prostě neoslovíte.
+* **Frustrace a poškození značky** – nepřístupný web zanechává špatný dojem, lidé se nevracejí a mohou sdílet negativní zkušenosti.
+* **SEO a viditelnost** – vyhledávače preferují weby, které jsou přístupné a přehledné; ignorování standardů snižuje organický dosah.
+* **Právní rizika** – ignorování WCAG může vést k žalobám nebo stížnostem na přístupnost.
+- **Vyšší budoucí náklady** – opravy přístupnosti později jsou dražší než implementace správně hned.
