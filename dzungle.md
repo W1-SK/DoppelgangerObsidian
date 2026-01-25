@@ -5,4 +5,5 @@
 Otázky k zamyšlení (prosím zkuste je mít sepsané mně pak během kampaně dost pomůžou. Děkuju <3):
 - Proč se chce nebo stane vaše postava dobrodruhem? Je to z donucení? nebo vaše volné rozhodnutí?
 - Co by jsi vaše postava počala v džungli?
-- Jak by vaše postava reagovala kdyby mu někdo opravdu blízký umřel a on by 
+- Jak by vaše postava reagovala kdyby mu někdo opravdu blízký umřel z neznámých příčin?
+- Kdyby byla vaše družina na konci svých sil na opravdu nepříjemném místě (například ztracení v džungli, bez dostatku zásob pro celou skupinu), jak by se vaše postava zachovala?
