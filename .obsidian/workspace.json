@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "dzungle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "2415997ce3e5c42d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cellar of death.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cellar of death"
+              "title": "dzungle"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,10 +176,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2415997ce3e5c42d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Home.md",
     "Cellar of death.md",
+    "dzungle.md",
+    "Home.md",
     "Zigilab Accessibility report.md",
     "Kampan 2/Zápisky Netherdeep.md",
     "Kampan 2/Kampaň 2 - TO BE ADDED.md",
@@ -219,7 +205,6 @@
     "D&D MO.md",
     "Fomos - To Do.md",
     "Kybernetická bezpečnost.md",
-    "H.E.R.M.E.T.I.C.S..md",
     "Worldbuilding project/Napady/Rozplánování.canvas",
     "Můj postup na tvoření světa.canvas",
     "Projekt s krycím jménem Dej groš zaklínači",
