@@ -21,4 +21,4 @@ Zkuste si vybrat z následujících příruček (pokud tam opravdu nic nenalezne
 Na určení vlastností postavy máte na výběr mezi:
 - Hodíte 4k6 a napíšete si součet třech nejvyšších hodů. Tohle proveďte 6x
 - Pole čísel {15, 14, 13, 12, 10, 8}
-- Vše máte na 8 a máte 27 bodů k rozdělení (viz)
+- Vše máte na 8 a máte 27 bodů k rozdělení, podle tabulky (viz *Příručka hráče* stránka 13 Varianta: Přizpůsobené hodnoty vlastností)
