@@ -22,3 +22,9 @@ Na určení vlastností postavy máte na výběr mezi:
 - Hodíte 4k6 a napíšete si součet třech nejvyšších hodů. Tohle proveďte 6x
 - Pole čísel {15, 14, 13, 12, 10, 8}
 - Vše máte na 8 a máte 27 bodů k rozdělení, podle tabulky (viz *Příručka hráče* stránka 13 Varianta: Přizpůsobené hodnoty vlastností)
+
+Také budu až budete semnou mít domluvené postavy (stačí jen charakteristiky ne mechanicky), potřebuju od vás jako skupiny aby jste si vytvořili jedno společné NPC, co je pro všechny z vás nějakým způsobem důležité a máte k němu dobrý vztah.
+
+Do kampaně jsem vymyslel další pravidla, odkaz na tyto domácí pravidla vám do konce týdne pošlu, spolu s dohodou stolu (úplně nevím jak to nazvat ale prostě půjde o nějaká očekávání a pravidla mezi námi hráči).
+
+Postavy bych s vámi všemi měl rád hotové do 14.2., aby jsme nejpozději do dvou týdnů po té mohli začít hrát, neboli 28.2. první session.
