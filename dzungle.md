@@ -8,4 +8,5 @@ Otázky k zamyšlení (prosím zkuste je mít sepsané mně pak během kampaně 
 - Jak by vaše postava reagovala kdyby mu někdo opravdu blízký umřel z neznámých příčin?
 - Kdyby byla vaše družina na konci svých sil na opravdu nepříjemném místě (například ztracení v džungli, bez dostatku zásob pro celou skupinu), jak by se vaše postava zachovala? Obětovala by se pro družinu? Zbavila by se někoho, aby přežila?
 - Znáte někoho ze skupiny? Pokud ano tak jak?
-- Kdo vaše postava je?
+- Kdo vaše postava je? (nebojte se rozepsat)
+Zkuste se zaměřit na to co postava znamená, její cíle, její nedostatku, její koníčky... V tento moment vůbec neřešte mechaniky a nezasekněte se na tom co za povolání, zázemí a tak chcete hrát, to přijde samo až si popřemýšlíte o postavě jako samotné.
