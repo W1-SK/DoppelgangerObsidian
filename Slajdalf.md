@@ -47,4 +47,10 @@
 	8. nemodlila s k bohu ale ne k autorite
 	9. buh je clovek
 - mnich dlouhe smrti z pobrezi a klerika hrobu
-- z pocatku jak putovala s bojem beze zbrane, kopii se zlomenim 
+- z pocatku jak putovala s bojem beze zbrane, kopii se zlomenim ostrim
+- Za pomoci viry dlasi levely klerika
+- starsi zena kolem 40
+- pulelf/drow
+- Drowka milfka
+- Vahy na zadech kdyz pouzije nekou magii tak se ji prevazej a on spadne
+- Tak prej mozna trpaslik
