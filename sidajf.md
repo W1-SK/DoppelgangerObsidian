@@ -1,0 +1,9 @@
+- Slechtic ale bastard. rodina zamerena na magii, prijali ho mezi slechtice protoze ma nadani na magii, ale postava je volnomyslenkarka. Utekl a ma rad magii, nebrat si moc zodpovenosti. Ma vnitrni pocit menecenosti, uz od narozeni nebyl sclechtic, je to pleb. Nechce delat magii, ale zkryvato stjne jako to ze je slechtic.
+- dobroruch je protoze muze cestovat.
+- Asi elf lesni
+- Pridel dam nekomu jinemu, jakoze lowkey gemtman
+- asi nebude s nikym predtim znama
+- dulezita sovoboda, porusit kdyz by mu neomu na nem opravdu zalezlo.
+- boji se zodpovednosti, blizkeho vztahu
+- Paladin/carodej divoky magie/Cernokneznik
+- 4k6
