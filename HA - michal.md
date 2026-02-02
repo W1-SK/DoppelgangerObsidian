@@ -101,3 +101,5 @@ vždy by to byla poslední možnost, nikdy by nevydala znalosti pro osobní zisk
 ---
 - Hrozně mi k tobě sedí harfeníci, a mohlo by to být, že jsi pracoval někde právě v knihovně a tvoje schopnosti ultra inteligence te dostali k tomu, že tě doporučili harfeníkům, kde jsi se osvědčil.
 - Možný spojení s Eliškou, že třeba byl poslán pro knihu džunglí, ale než dorazil tak kniha už nebyla a tak se spolu setkali
+- Knihovna o které mluvíš by mohla být svítící tvrz
+- Tragická smrt přítele
