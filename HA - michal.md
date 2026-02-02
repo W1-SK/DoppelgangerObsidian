@@ -103,3 +103,7 @@ vždy by to byla poslední možnost, nikdy by nevydala znalosti pro osobní zisk
 - Možný spojení s Eliškou, že třeba byl poslán pro knihu džunglí, ale než dorazil tak kniha už nebyla a tak se spolu setkali
 - Knihovna o které mluvíš by mohla být svítící tvrz
 - V knihovně měl přítele ale ten musel před měsícem odjet. Než odjedou dostane od Remallie knihu kde bude dopis. Kniha byla nalezena právě v dzungli kam míří agentami harfeníku a v knize byl napsán dopis mířený pro flynna + k tomu harfenici pridali kontrakt pro vzaní do frakce a jeho prvni ukol na chultu - najit ztracene agenta harfeniku Artuse Cimbera co ma prsten zimy
+---
+- s harfeníky nemá problém
+- člověk
+- antropolog
