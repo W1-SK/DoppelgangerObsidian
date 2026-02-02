@@ -121,7 +121,7 @@ Objevení jeho magického nadání a následné využívání.
 * Není zatím provázán s jinými postavami družiny (volné)
 
 ---
-Hele projel jsem si to znovu a je tu par veci co budu chtit zmenit.
-- Nedává smysl, aby tě vzali mezi sebe. Na mečovym pobřeží elfové pohlíží na půlelfy jako na úpadek civilizace, takže ač tě nemuseli hned vyhodit kvůli tomu, že máš nadání na magii, tak tě drželi dál od všeho co je speciální pro elfy. Tudíž nejsi pořádně seznámen s jejich historií, ani uměními přírody.
-- Hrozně mi nesední věta "je v lesích jako doma", spíš bych řekl, že by v lese hned neumřel a nebyl by totálně ztracenej ale jako znalost lesa bych spíš nechal lidem co by chtěli hrát druida, nebo hraničáře ať jim to nebere spotlight.
-- Tvoje vychovavani u elfu vypadalo, ze jsi byl na okraji spolecnosti a vsichni te brali jako chybu a tvoje schopnost magie, je donutila udelat kompromis ze te ihned nevyhodi ale nechaji si te a budou te ucit jen to nejpotrebnejsi aby te pak mohli vyuzit na to kam by sve cleny rodu neposlali. 
+Hele, projel jsem si to znovu a je tu pár věcí, které bych chtěl změnit.
+- Nedává smysl, aby tě elfové plně přijali mezi sebe. Na Mečovém pobřeží se na půlelfy často pohlíží jako na úpadek elfí civilizace. I když tě kvůli nadání na magii nemuseli hned vyhnat, drželi tě stranou všeho, co je pro elfy specifické. Nejsi proto podrobně obeznámen s jejich historií ani s hlubšími uměními spojenými s přírodou.
+- Nesedí mi ani formulace, že je postava v lesích jako doma. Spíš bych to viděl tak, že by v lese hned neumřela a nebyla úplně ztracená, ale skutečnou znalost lesa bych nechal postavám, které jsou na to zaměřené, jako jsou druidi nebo hraničáři, aby jim to nebralo spotlight.
+- Tvoje výchova u elfů tedy probíhala spíš na okraji jejich společnosti. Vnímali tě jako chybu a tvoje magické nadání je přimělo ke kompromisu. Nevyhodili tě, ale učili tě jen to nejnutnější, aby tě později mohli využít na úkoly, kam by své vlastní členy rodu neposlali.
