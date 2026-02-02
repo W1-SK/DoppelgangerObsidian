@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HA - simek.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HA - simek"
+              "title": "Home"
             }
           }
         ]
@@ -178,9 +178,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "HA - simek.md",
     "Slajdalf.md",
     "HA - mikes.md",
-    "HA - simek.md",
     "Home.md",
     "dzungle.md",
     "conflict-files-obsidian-git.md",
