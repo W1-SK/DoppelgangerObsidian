@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "HA - simek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "HA - simek"
             }
           }
         ]
@@ -178,10 +178,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home.md",
     "HA - simek.md",
     "Slajdalf.md",
     "HA - mikes.md",
-    "Home.md",
     "dzungle.md",
     "conflict-files-obsidian-git.md",
     "Cellar of death.md",
