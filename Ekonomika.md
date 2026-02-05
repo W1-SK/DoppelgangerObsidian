@@ -71,7 +71,7 @@ Poštovní doručování – Věcná × Výsledek × Individuální
 		- Výběr obchodních partnerů
 		- Výběr zaměstnanců
 		- Ekonomická samostatnost
-		- Rozdělení zisku
+		- Rozdělení zisku (daň 21%)
 		- Ceny produktu
 		- Mzdy zaměstnanců - alespoň minimální mzdy(22.400 kč) platí jen pokud pracujete na plný úvazek
 	- CPH - centrálně plánované hospodářství
@@ -80,6 +80,8 @@ Poštovní doručování – Věcná × Výsledek × Individuální
 		- Stát určuje obchodní partnery - RVHP
 		- Zásahy do zaměstnanosti (neurčovali jednotlivci zaměstnání. Ale zasahovali do zaměstnanosti, kvůli politickým důvodům) 
 		- Ekonomická nesamostatnost
-		- Centrální ceny - už při výrobě byl produkt označený cenou
+		- Centrální ceny - už při výrobě byl produkt označený maloobchodní cenou
 		- Centrální mzda - aby se vše nehrnulo do jednoho kraje (Mzdová nivelizace)
-		- 
+		- Pojem zisk se tu nepoužíval, místo toho se používala *nadhodnota* nebo nadprodukt (zisk = příjmy - výdaje)
+		- Daň byla 80% nadhodnoty
+		- Přerozdělování - To co vydělal na dani tak dal zase někam jinam
