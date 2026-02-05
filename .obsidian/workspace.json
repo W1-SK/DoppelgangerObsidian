@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Ekonomika.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Ekonomika"
             }
           }
         ]
@@ -176,8 +176,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Ekonomika.md",
     "Home.md",
+    "Ekonomika.md",
     "conflict-files-obsidian-git.md",
     "Zigilab Accessibility report.md",
     "Untitled.md",

@@ -60,5 +60,14 @@ Poštovní doručování – Věcná × Výsledek × Individuální
 
 
 ## Hodina 15 22.1. - Tržní hospodářství
-- Kapitalismus
-- 1781 -> 1948 -> 1989 -> současnost 
+- Kapitalismus = Tržní hospodářství
+- 1781(kapitalismus) -> 1948 (centrálně plánované hospodářství) -> 1989 -> současnost 
+
+## Hodina 16 5.2. - 
+- Možnosti
+	- TH - tržní hospodářství
+		- Soukromé vlastnictví podniků
+		- Právní samostatnost - rozhodujete o oboru hospodaření
+		- Obchodní partnery
+	- CPH - centrálně plánované hospodářství
+		- Statní vlastnictví podniků
