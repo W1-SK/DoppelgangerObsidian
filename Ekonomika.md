@@ -68,6 +68,18 @@ Poštovní doručování – Věcná × Výsledek × Individuální
 	- TH - tržní hospodářství
 		- Soukromé vlastnictví podniků
 		- Právní samostatnost - rozhodujete o oboru hospodaření
-		- Obchodní partnery
+		- Výběr obchodních partnerů
+		- Výběr zaměstnanců
+		- Ekonomická samostatnost
+		- Rozdělení zisku
+		- Ceny produktu
+		- Mzdy zaměstnanců - alespoň minimální mzdy(22.400 kč) platí jen pokud pracujete na plný úvazek
 	- CPH - centrálně plánované hospodářství
 		- Statní vlastnictví podniků
+		- Právní nesamostatnost - stát rozhoduje o oboru hospodaření
+		- Stát určuje obchodní partnery - RVHP
+		- Zásahy do zaměstnanosti (neurčovali jednotlivci zaměstnání. Ale zasahovali do zaměstnanosti, kvůli politickým důvodům) 
+		- Ekonomická nesamostatnost
+		- Centrální ceny - už při výrobě byl produkt označený cenou
+		- Centrální mzda - aby se vše nehrnulo do jednoho kraje (Mzdová nivelizace)
+		- 
