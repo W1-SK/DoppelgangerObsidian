@@ -29,9 +29,6 @@ tags:
 
 
 
-
-
-
 STATKY
 
 Chleba – Hmotný × Spotřební × Ekonomický
@@ -61,4 +58,7 @@ Policie – Věcná × Průběh × Kolektivní
 Masér – Osobní × Průběh × Individuální
 Poštovní doručování – Věcná × Výsledek × Individuální
 
-## 7 Oprava písemné práce 6.11.
+
+## Hodina 15 22.1. - Tržní hospodářství
+- Kapitalismus
+- 1781 -> 1948 -> 1989 -> současnost 
