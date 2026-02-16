@@ -27,4 +27,14 @@ Pak si nainstalujeme všechny potřebné packages pomocí `npm install express b
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 ```
-a když už jsme tam tak změníme z `"type": "module"` 
+a když už jsme tam tak změníme z `"type": "commonjs"` na `"type": "module"`. K dokončení inicializace projektu už nám stačí jen dodělat serve.js kde to uděláme následovně
+```js
+import express from 'express'
+
+const app = express();
+const PORT = process.env.PORT || 5000 // zkusi nejdriv port z .env pokud nenajde tak to nastavi na 5000
+
+app.listen(PORT, () => {
+    console.log(`Server běží na portu: ${PORT}`)
+})
+```
