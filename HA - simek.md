@@ -183,3 +183,16 @@ Tak jsem si to projel a je to lepsi ale mam par veci.
 - Also mi nesedi se jsi jako barbar studoval prirodu. Verim ze v kmenu jste nemeli knihovnu kde bylo o prirode psano
 - A jakoby stale stejnej problem s vedomostmi o prirode, tohle je to co dela hranicare a druidy special, tak z toho nedelej neco co by mohlo temle povolanim krast podstatu
 - A obecne ta postava nema zadne velke vady, a bez vad to neni tak zajimavej hrdina do dnd
+---
+Tak jsem si to projel a je to lepší, ale mám pár věcí:
+* Zcela upřímně, tvoje staty jsou hrozně moc. Budeš zase v pozici takového poloboha, co nepotřebuje družinu. Takže jako je to na tobě, ale doporučoval bych si buď nějakej sundat pod 10, nebo si vymyslet nějaký debuffy.
+	* Třeba že když vidíš velkou šelmu, tak si hodíš na záchranný hod na Moudrost (SO 13) a při neúspěchu bys byl vystrašený.
+	* Když spadneš na 0 HP a jsi vyléčený, tak se na tobě ten medvěd „roztancuje“ a máš nevýhodu na zastrašování, protože tě nikdo nebere vážně.
+* Ta motivace je taková nwm o ničem. Dal bych tam něco specifického, co jsi posral. Třeba že to nebyl normální medvěd, ale totemový duch medvěda. A tobě se ho povedlo naštvat, tak přestala týct řeka nebo není úroda. Kvůli tomu tě vyhnali z kmenu jako kacíře. Takže tvoje jediná možnost, jak se vrátit, je usmířit totemové duchy (přes tohle si můžeš pak otevírat ty schopnosti totemového barbara).
+* Máš tam napsaný, že se bojíš ukázat slabost a že tě porazil medvěd, ale tvoje dovednosti mluví o něčem jiném a bude to ve hře vidět. Působí to nevěrohodně.
+* S dudama nemám problém, ale dej tam nějakej důvod. Třeba že jsou po tvým otci a pokud to chceš mít víc goofy, tak na ně reálně neumíš, ale nechceš si od nikoho nechat říct pravdu a myslíš si, že jsi nejlepší.
+* Taky bych nějak odůvodnil, co bylo s tvým otcem. Jak se dostal mezi orky? Byl to otrok, zajatec, nebo zběh? To dost změní, jak na tebe kmen kouká.
+* Nesedí mi, že jsi dobrodruh poslední 2 roky, ale jsi lvl 1. Za dva roky v divočině už bys musel něco umět. Buď jsi ty dva roky jen někde kopal příkopy, nebo jsi z domova odešel teprve nedávno.
+* Nesedí mi, že jsi jako barbar studoval přírodu. Věřím, že v kmenu jste neměli knihovnu, kde by o přírodě bylo psáno. Máš instinkty, ne akademické znalosti.
+* Stále stejný problém s vědomostmi o přírodě. Tohle je to, co dělá hraničáře a druidy speciální, tak z toho nedělej něco, co by mohlo těmhle povoláním krást jejich podstatu.
+* Obecně ta postava nemá žádné velké vady. A bez vad to prostě není tak zajímavej hrdina do DnD.

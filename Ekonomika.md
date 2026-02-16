@@ -29,9 +29,6 @@ tags:
 
 
 
-
-
-
 STATKY
 
 Chleba – Hmotný × Spotřební × Ekonomický
@@ -61,4 +58,30 @@ Policie – Věcná × Průběh × Kolektivní
 Masér – Osobní × Průběh × Individuální
 Poštovní doručování – Věcná × Výsledek × Individuální
 
-## 7 Oprava písemné práce 6.11.
+
+## Hodina 15 22.1. - Tržní hospodářství
+- Kapitalismus = Tržní hospodářství
+- 1781(kapitalismus) -> 1948 (centrálně plánované hospodářství) -> 1989 -> současnost 
+
+## Hodina 16 5.2. - 
+- Možnosti
+	- TH - tržní hospodářství
+		- Soukromé vlastnictví podniků
+		- Právní samostatnost - rozhodujete o oboru hospodaření
+		- Výběr obchodních partnerů
+		- Výběr zaměstnanců
+		- Ekonomická samostatnost
+		- Rozdělení zisku (daň 21%)
+		- Ceny produktu
+		- Mzdy zaměstnanců - alespoň minimální mzdy(22.400 kč) platí jen pokud pracujete na plný úvazek
+	- CPH - centrálně plánované hospodářství
+		- Statní vlastnictví podniků
+		- Právní nesamostatnost - stát rozhoduje o oboru hospodaření
+		- Stát určuje obchodní partnery - RVHP
+		- Zásahy do zaměstnanosti (neurčovali jednotlivci zaměstnání. Ale zasahovali do zaměstnanosti, kvůli politickým důvodům) 
+		- Ekonomická nesamostatnost
+		- Centrální ceny - už při výrobě byl produkt označený maloobchodní cenou
+		- Centrální mzda - aby se vše nehrnulo do jednoho kraje (Mzdová nivelizace)
+		- Pojem zisk se tu nepoužíval, místo toho se používala *nadhodnota* nebo nadprodukt (zisk = příjmy - výdaje)
+		- Daň byla 80% nadhodnoty
+		- Přerozdělování - To co vydělal na dani tak dal zase někam jinam
