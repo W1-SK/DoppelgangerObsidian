@@ -359,3 +359,5 @@ Content-Type: application/json
 ### DATA ENDPOINT ODEBRÁNÍ UŽIVATELE
 DELETE http://localhost:8383/api/data
 ```
+
+Můžete pokračovat na [[Projekt 2 - Backend]].
