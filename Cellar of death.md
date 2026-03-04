@@ -1,0 +1,1 @@
+Z 1. úrovně do té druhé a zároveň dám postavám důvod 
