@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -177,12 +179,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Jídlo co jím.md",
+    "Home.md",
     "Projekt 2 - Backend.md",
     "Projekt 1 - Backend.md",
     "Backend.md",
     "dzungle.md",
     "Server.md",
-    "Home.md",
     "conflict-files-obsidian-git.md",
     "HA - vitek.md",
     "Slajdalf.md",
@@ -199,7 +202,6 @@
     "Yuumi-DnD.md",
     "Untitled.md",
     "Ekonomika.md",
-    "Jídlo co jím.md",
     "Sitemap Caroteka.md",
     "Studentský projekt - D&D Toolbox.md",
     "Studentský projekt - note.md",
