@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FRONTEND_API_GUIDE.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FRONTEND_API_GUIDE"
+              "title": "Home"
             }
           }
         ]
@@ -179,8 +179,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Home.md",
     "FRONTEND_API_GUIDE.md",
+    "Home.md",
     "Zápisky z videa - D&D.md",
     "Zájmy MO.md",
     "Yuumi-DnD.md",
