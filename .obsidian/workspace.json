@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "FRONTEND_API_GUIDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "FRONTEND_API_GUIDE"
             }
           }
         ]
@@ -179,13 +179,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home.md",
+    "FRONTEND_API_GUIDE.md",
     "Zápisky z videa - D&D.md",
     "Zájmy MO.md",
     "Yuumi-DnD.md",
     "Test obsidianu.md",
     "Time tracker - D&D Toolbox.md",
     "dzungle.md",
-    "Home.md",
     "Jídlo co jím.md",
     "Projekt 2 - Backend.md",
     "Projekt 1 - Backend.md",
@@ -205,7 +206,6 @@
     "Kampan 2",
     "Worldbuilding project/Napady/Nápady seznam - Mythoria.md",
     "Untitled.md",
-    "Ekonomika.md",
     "Worldbuilding project/Napady/Rozplánování.canvas",
     "Můj postup na tvoření světa.canvas",
     "Projekt s krycím jménem Dej groš zaklínači",
